@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5967d1e5-f342-4ea0-9c29-44fe6e51646d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TPR_lab3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TPR_lab3/TPR_lab3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../TPR_lab3/TPR_lab3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/TPR_lab4-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/TPR_lab4-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TPR_lab4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TPR_lab4.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +90,7 @@
       <updated>1604946323680</updated>
       <workItem from="1604946325825" duration="13000" />
       <workItem from="1604946531313" duration="1785000" />
+      <workItem from="1604963868284" duration="1283000" />
     </task>
     <servers />
   </component>
@@ -105,5 +107,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/teraz/OneDrive/Рабочий стол/DecisionTheory_sem7/TPR_lab4/TPR_lab4.ipynb</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
